@@ -1,0 +1,11 @@
+{
+  "name": "genpark-autonomous-cron-schedule-conflict-and-deadlock-detector-skill",
+  "version": "1.0.0",
+  "description": "Detects overlapping execution windows and shared resource lock contention across scheduled autonomous agent jobs",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
